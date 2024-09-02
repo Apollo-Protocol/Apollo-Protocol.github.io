@@ -9,3 +9,6 @@ Currently-allocated prefixes are:
 * [2023/diagram-editor](./2023/diagram-editor) Allocated to the
   prototype [4D activity diagram
   editor](https://github.com/Apollo-Protocol/4d-activity-editor).
+
+* [2024/dft](./2024/dft) Allocated to a project for the
+  Department for Transport.
